@@ -3,19 +3,19 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $LEGEND_REPO == "LEGENDBOT" ]]
+    if [[ $classylove1_REPO == "classylove1" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1MZWdlbmRCb3QvTEVHRU5EVVNFUkJPVC9hcmNoaXZlL0xlZ2VuZEJvdC56aXA=" | base64 -d
-    elif [[ $LEGEND_REPO == "LEGENDBOT" ]]
+    elif [[ $classylove1_REPO == "classylove1" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1MZWdlbmRCb3QvTEVHRU5EVVNFUkJPVC9hcmNoaXZlL0xlZ2VuZEJvdC56aXA=" | base64 -d
-    elif [[ $LEGEND_REPO =~ $regex ]]
+    elif [[ $Classylove1_REPO =~ $regex ]]
     then
-        if [[ $LEGEND_REPO_BRANCH ]]
+        if [[ $classylove1_REPO_BRANCH ]]
         then
-            echo "${LEGEND_REPO}/archive/${LEGEND_REPO_BRANCH}.zip"
+            echo "${classylove1_REPO}/archive/${classylove1_REPO_BRANCH}.zip"
         else
-            echo "${LEGEND_REPO}/archive/master.zip"
+            echo "${classylove1_REPO}/archive/master.zip"
         fi
     else
         echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1MZWdlbmRCb3QvTEVHRU5EVVNFUkJPVC9hcmNoaXZlL0xlZ2VuZEJvdC56aXA=" | base64 -d
@@ -32,11 +32,11 @@ _setting_bot () {
     LEGENDPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
-    echo "  LegendBot V3.O Cleaning.."
+    echo "  classylove1 V3.O Cleaning.."
     rm -rf "$zippath"
     sleep 5
     cd $LEGENDPATH
-    echo "    ⚜️Starting Lêɠêɳ̃dẞø†⚜️     "
+    echo "    ⚜️Starting classylove1⚜️     "
     echo "
     🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳
     "
