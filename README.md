@@ -131,7 +131,7 @@
 
   <summary> • LICENSE • </summary>
 
-![](https://www.gnu.org/graphics/gplv3-or-later.png)
+![](https://te.legra.ph/file/0bbcef9f45e67167142cc.jpg)
 
 LEGEND-OS
 
