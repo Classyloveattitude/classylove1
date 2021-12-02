@@ -2,18 +2,18 @@
 <b> CLASSYLOVE1 </b>
 </h1>
 
-[![LEGENDBOT](https://te.legra.ph/file/0bbcef9f45e67167142cc.jpg)](https://github.com/Classyloveattitude/Classylove1)
+[![CLASSYLOVE1](https://te.legra.ph/file/0bbcef9f45e67167142cc.jpg)](https://github.com/Classyloveattitude/Classylove1)
 
 <h6 align="center">
-  <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+  <b>⚡ Classylove1 is the fastest $ snoothest bot on telegran ⚡</b>
 </h6>
 
 <p align="center">
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LEGEND-OS/LEGENDBOT?style=flat&logo=github" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logo=github" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/LEGEND-OS/LEGENDBOT?color=success" /> </a>
-<a href="https://github.com/LEGEND-OS/LEGENDBOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/classyloveattitude/classylove1" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/classyloveattitude/classylove1?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/classyloveattitude/classylove1/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/classyloveattitude/classylove1?style=flat&logo=github" /> </a>
+<a href="https://github.com/classyloveattitude/classylove1/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/classyloveattitude/classylove1?label=Forks&logo=github" /> </a>
+<a href="https://github.com/classyloveattitude/classylove1" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/classyloveattitude/classylove1?color=success" /> </a>
+<a href="https://github.com/classyloveattitude/classylove1" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/classyloveattitude/classylove1?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
